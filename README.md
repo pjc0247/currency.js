@@ -30,6 +30,10 @@ co(function*(){
 </script>
 ```
 
+Requirements
+----
+* __[FlyJSONP](http://alotaiba.github.io/FlyJSONP/)__ : To detour browser's CORS(Cross-Origin Resource Sharing) policies.
+
 YQL Currency Query API
 ----
 [YQL Finance.XChange](https://developer.yahoo.com/yql/console/?q=show%20tables&env=store://datatables.org/alltableswithkeys#h=select%20*%20from%20yahoo.finance.xchange%20where%20pair%20in%20%28%22USDMXN%22%29)
