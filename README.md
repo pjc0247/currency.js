@@ -1,5 +1,5 @@
 # currency.js
-Querying realtime currency rates.
+Querying currency rates.
 
 API
 ----
