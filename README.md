@@ -6,8 +6,8 @@ API
 ```js
 let promise = Currency.query(CODE1, CODE2);
 ```
-__CODE1__ : Currency code (ex: USD);
-__CODE2__ : Currency code (ex: KRW);
+__CODE1__ : Currency code (ex: USD)<br>
+__CODE2__ : Currency code (ex: KRW)<br>
 __RETURN__ : [Promise](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 Example Usage
