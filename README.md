@@ -1,5 +1,5 @@
 # currency.js
-query realtime currency rates using YQL.
+Querying realtime currency rates.
 
 API
 ----
@@ -29,3 +29,7 @@ co(function*(){
 });
 </script>
 ```
+
+YQL Currency Query API
+----
+[YQL Finance.XChange](https://developer.yahoo.com/yql/console/?q=show%20tables&env=store://datatables.org/alltableswithkeys#h=select%20*%20from%20yahoo.finance.xchange%20where%20pair%20in%20%28%22USDMXN%22%29)
